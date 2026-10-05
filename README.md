@@ -26,6 +26,10 @@ File: `AgeCalculator.java`
 Takes Dividend and Divisor and finds Quotient ( / ) and Remainder ( % ).
 File: `DivisionCalculator.java`
 
+### 6. Swapping Two Numbers
+Swaps two numbers using a temporary variable (temp).
+File: `SwappingNumbers.java`
+
 ## Language
 Java - Learning fundamentals
 
