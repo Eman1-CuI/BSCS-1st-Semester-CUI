@@ -18,6 +18,10 @@ Converts total hours into days, weeks and remaining days.
 Logic: 1 Day = 24h, 1 Week = 168h (24*7)
 File: `HoursConverter.java`
 
+### 4. Age Calculator
+Converts age from years into months and days.
+File: `AgeCalculator.java`
+
 ## Language
 Java - Learning fundamentals
 
