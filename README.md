@@ -2,6 +2,7 @@
 
 Hi, I am a BSCS student at COMSATS UNIVERSITY ISLAMABAD, Sahiwal Campus.
 This repository contains my java lab work for 1st Semester.
+
 ## Projects
 
 ### 1.Print Bill Calculator 
@@ -11,6 +12,11 @@ File: 'PrintBill.java'
 ### 2. Stats Calculator
 Takes 4 numbers and find Addition, Product and Average.
 File: 'Stats Calculator.java'
+
+### 3. Hours to Days & Weeks Converter
+Converts total hours into days, weeks and remaining days.
+Logic: 1 Day = 24h, 1 Week = 168h (24*7)
+File: `HoursConverter.java`
 
 ## Language
 Java - Learning fundamentals
