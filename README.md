@@ -34,9 +34,16 @@ File: `SwappingNumbers.java`
 Swaps two numbers without using third variable (using a=a+b logic)
 File: 'SwappingWithoutTemp.java'
 
+### 8. Reverse a Five-Digit Number
+Reverses a number using loop and modulus operator.
+File: 'ReverseNumber.java'
+
+### 9. Name Input
+Takes name as input and prints greeting.
+File: 'NameInput.java'
+
 ## Language
 Java - Learning fundamentals
 
 ## Status
 Learning in progress! New progress added daily.
-
