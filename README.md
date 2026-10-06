@@ -30,6 +30,10 @@ File: `DivisionCalculator.java`
 Swaps two numbers using a temporary variable (temp).
 File: `SwappingNumbers.java`
 
+### 7.Swapping Without Temp Variable
+Swaps two numbers without using third variable (using a=a+b logic)
+File: 'SwappingWithoutTemp.java'
+
 ## Language
 Java - Learning fundamentals
 
