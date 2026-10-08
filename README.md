@@ -42,6 +42,10 @@ File: 'ReverseNumber.java'
 Takes name as input and prints greeting.
 File: 'NameInput.java'
 
+### 10. Odd Even Checker
+Checks whether a number is Odd or Even using modulus operator (%).
+File: `OddEvenChecker.java`
+
 ## Language
 Java - Learning fundamentals
 
