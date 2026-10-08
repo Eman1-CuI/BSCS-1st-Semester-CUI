@@ -55,6 +55,10 @@ Converts temperature from Celsius to Fahrenheit.
 Formula: F = (C * 9/5) + 32
 File: `TemperatureConverter.java`
 
+### 13. Simple Interest Calculator
+Calculates Simple Interest using P*R*T/100 formula.
+File: `SimpleInterest.java
+
 ## Language
 Java - Learning fundamentals
 
