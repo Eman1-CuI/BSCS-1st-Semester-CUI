@@ -50,6 +50,11 @@ File: `OddEvenChecker.java`
 Takes percentage as input and shows grade (A+, A, B, C, D, F).
 File: `GradeCalculator.java`
 
+### 12. Temperature Converter
+Converts temperature from Celsius to Fahrenheit.
+Formula: F = (C * 9/5) + 32
+File: `TemperatureConverter.java`
+
 ## Language
 Java - Learning fundamentals
 
