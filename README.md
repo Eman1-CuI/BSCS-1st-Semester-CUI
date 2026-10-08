@@ -46,6 +46,10 @@ File: 'NameInput.java'
 Checks whether a number is Odd or Even using modulus operator (%).
 File: `OddEvenChecker.java`
 
+### 11. Grade Calculator
+Takes percentage as input and shows grade (A+, A, B, C, D, F).
+File: `GradeCalculator.java`
+
 ## Language
 Java - Learning fundamentals
 
