@@ -3,7 +3,7 @@
 Hi, I am a BSCS student at COMSATS UNIVERSITY ISLAMABAD, Sahiwal Campus.
 This repository contains my java lab work for 1st Semester.
 <br>
-Author - Eman Nadeem 
+Author - Eman Nadeem(CUI)
 
 ## Projects
 
