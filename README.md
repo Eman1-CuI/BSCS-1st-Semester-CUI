@@ -1,9 +1,12 @@
 # BSCS 1st Semester - CUI Sahiwal
 
 Hi, I am a BSCS student at COMSATS UNIVERSITY ISLAMABAD, Sahiwal Campus.
-This repository contains my java lab work for 1st Semester.
+This repository contains my java lab work and HTML/CSS(learn by own) for 1st Semester.
 <br>
 Author - Eman Nadeem (CUI)
+Contact: enadeem765@gmail.com | GitHub: Eman1-CuI
+Education: Al Mussarat Educational Complex(Matric 1133/1200) | KIPS College Okara(FSC (pre engineering) 1101/1200)
+Goal: MS/PhD from Abroad | Learning: Java, HTML/CSS
 
 ## Projects
 
@@ -65,8 +68,17 @@ File: `SimpleInterest.java
 Takes month number (1-12) as input and shows month name and number of days using switch statement.
 File: `Calender.java`
 
-## Language
-Java - Learning fundamentals
+## 🛠️ Language
+Java - Learning fundamentals | HTML/CSS - Beginner
 
-## Status
-Learning in progress! New progress added daily.
+## 📈 Status
+Learning in progress! New programs added daily.
+Commit history shows my step-by-step growth.
+
+## 🎯 Next Goals
+- [ ] Learn CSS properly
+- [ ] Make my HTML form responsive
+- [ ] Add 10 more Java programs
+
+---
+⭐ If you are from CUI Sahiwal, feel free to fork!
