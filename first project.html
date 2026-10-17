@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Eman - My First Form</title>
+<style>
+  body {
+    font-family: 'Segoe UI', sans-serif;
+    background: #f0f2f5;
+    display: flex; justify-content: center; align-items: center;
+    min-height: 100vh; margin: 0;
+  }
+  .card {
+    background: white; padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+    width: 320px;
+  }
+  .card h2 { text-align: center; margin: 0; }
+  .subtitle { text-align: center; color: #666; font-size: 13px; margin-bottom: 20px; }
+  .card p { font-weight: 600; font-size: 14px; margin: 15px 0 6px; }
+  .card input[type="text"], .card input[type="password"] {
+    width: 100%; padding: 10px; border: 1px solid #ccc;
+    border-radius: 8px; box-sizing: border-box;
+  }
+  .radio-group { display: flex; gap: 15px; margin-top: 5px; }
+  .btn {
+    width: 100%; margin-top: 20px; padding: 11px;
+    background: #6c5ce7; color: white; border: none;
+    border-radius: 8px; font-weight: 600; cursor: pointer;
+  }
+  footer { text-align: center; margin-top: 20px; font-size: 12px; color: #888; }
+</style>
+</head>
+<body>
+  <div class="card">
+    <h2>Welcome</h2>
+    <p class="subtitle">Eman's First HTML Project</p>
+    <form>
+      <p>Enter your name:</p>
+      <input type="text" placeholder="Enter Name">
+      <p>Enter password:</p>
+      <input type="password" placeholder="Enter Password">
+      <p>Select your Class:</p>
+      <div class="radio-group">
+        <label><input type="radio" name="Class" id="101"> Class XI</label>
+        <label><input type="radio" name="Class" id="102"> Class XII</label>
+      </div>
+      <button class="btn" type="submit">Submit</button>
+    </form>
+    <footer>Contact me at HELLO@AC.COM</footer>
+  </div>
+</body>
+</html>
