@@ -2,71 +2,85 @@
 
 Hi, I am a BSCS student at COMSATS UNIVERSITY ISLAMABAD, Sahiwal Campus.
 This repository contains my java lab work and HTML/CSS(learn by own) for 1st Semester.
+<hr>
+Author - <u><i>Eman Nadeem (CUI)</i></u>
 <br>
-Author - Eman Nadeem (CUI)
 Contact:  LinkedIn: Eman Nadeem | GitHub: https://github.com/Eman1-CuI/BCS-1st-Semester-CUI
 Education: Al Mussarat Educational Complex(Matric 1133/1200) | KIPS College Okara(FSC (pre engineering) 1101/1200)
+<br>
 Goal: MS/PhD from Abroad | Learning: Java, HTML/CSS
 
 ## Projects
 
 ### 1.Print Bill Calculator 
 Calculates printing shop billing with tax.
-File: 'PrintBill.java'
+**File:** 'PrintBill.java'
 
 ### 2. Stats Calculator
 Takes 4 numbers and find Addition, Product and Average.
-File: 'Stats Calculator.java'
+**File:** 'Stats Calculator.java'
 
 ### 3. Hours to Days & Weeks Converter
 Converts total hours into days, weeks and remaining days.
 Logic: 1 Day = 24h, 1 Week = 168h (24*7)
-File: `HoursConverter.java`
+**File:** `HoursConverter.java`
 
 ### 4. Age Calculator
 Converts age from years into months and days.
-File: `AgeCalculator.java`
+**File:** `AgeCalculator.java`
 
 ### 5. Division Calculator (Quotient & Remainder)
 Takes Dividend and Divisor and finds Quotient ( / ) and Remainder ( % ).
-File: `DivisionCalculator.java`
+**File:** `DivisionCalculator.java`
 
 ### 6. Swapping Two Numbers
 Swaps two numbers using a temporary variable (temp).
-File: `SwappingNumbers.java`
+**File:** `SwappingNumbers.java`
 
 ### 7.Swapping Without Temp Variable
 Swaps two numbers without using third variable (using a=a+b logic)
-File: 'SwappingWithoutTemp.java'
+**File:** 'SwappingWithoutTemp.java'
 
 ### 8. Reverse a Five-Digit Number
 Reverses a number using loop and modulus operator.
-File: 'ReverseNumber.java'
+**File:** 'ReverseNumber.java'
 
 ### 9. Name Input
 Takes name as input and prints greeting.
-File: 'NameInput.java'
+**File:** 'NameInput.java'
 
 ### 10. Odd Even Checker
 Checks whether a number is Odd or Even using modulus operator (%).
-File: `OddEvenChecker.java`
+**File:** `OddEvenChecker.java`
 
 ### 11. Grade Calculator
 Takes percentage as input and shows grade (A+, A, B, C, D, F).
-File: `GradeCalculator.java`
+**File:** `GradeCalculator.java`
 
 ### 12. Temperature Converter
 Converts temperature from Celsius to Fahrenheit.
 Formula: F = (C * 9/5) + 32
-File: `TemperatureConverter.java`
+**File:** `TemperatureConverter.java`
 
 ### 13. Simple Interest Calculator
 Calculates Simple Interest using P*R*T/100 formula.
-File: `SimpleInterest.java
+**File:** `SimpleInterest.java
 
 ### 14. Calender
 Takes month number (1-12) as input and shows month name and number of days using switch statement.
-File: `Calender.java`
+**File:** `Calender.java`
+
+### 15. Project of HTML - Eman's First Form
+
+**Description:** My first HTML project - A simple and clean Welcome/Login form.
+It is named "Eman's First HTML Project" and includes basic user inputs.
+**Features:**
+- Input for Name and Password with placeholders
+- Radio buttons to select Class (Class XI / Class XII)
+- Submit button
+- Contact email link at bottom
+**Technologies Used**: HTML5, CSS (for styling the form box and button)
+**File**:`firstproject.html`
 
 ## 🛠️ Language
 Java - Learning fundamentals | HTML/CSS - Beginner
