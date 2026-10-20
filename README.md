@@ -3,7 +3,7 @@
 Hi, I am a BSCS student at COMSATS UNIVERSITY ISLAMABAD, Sahiwal Campus.
 This repository contains my java lab work and HTML/CSS(learn by own) for 1st Semester.
 <hr>
-Author - <i>**Eman Nadeem (CUI)**</i>
+Author - <i>Eman Nadeem (CUI)</i>
 <br>
 Contact:  LinkedIn: Eman Nadeem | GitHub: https://github.com/Eman1-CuI/BCS-1st-Semester-CUI
 Education: Al Mussarat Educational Complex(Matric 1133/1200) | KIPS College Okara(FSC (pre engineering) 1101/1200)
@@ -93,10 +93,10 @@ It is named "Eman's First HTML Project" and includes basic user inputs.
 - Input for Name and Password with placeholders
 - Radio buttons to select Class (Class XI / Class XII)
 - Submit button
-- Contact email link at bottom
-**Technologies Used**: HTML5, CSS (for styling the form box and button)
+- Contact email link at bottom.<BR>
+- **Technologies Used**: HTML5, CSS (for styling the form box and button)
 <BR>
-**File**:`firstproject.html`
+**File:** `firstproject.html`
 
 ## 🛠️ Language
 Java - Learning fundamentals | HTML/CSS - Beginner
