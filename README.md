@@ -5,7 +5,7 @@ This repository contains my java lab work and HTML/CSS(learn by own) for 1st Sem
 <hr>
 Author - <i>Eman Nadeem (CUI)</i>
 <br>
-Contact:  LinkedIn: Eman Nadeem | GitHub: https://github.com/Eman1-CuI/BCS-1st-Semester-CUI
+Contact:  LinkedIn: Eman Nadeem | GitHub: https://github.com/Eman1-Cul/BCS-1st-Semester-CUI
 Education: Al Mussarat Educational Complex(Matric 1133/1200) | KIPS College Okara(FSC (pre engineering) 1101/1200)
 <br>
 Goal: MS/PhD from Abroad | Learning: Java, HTML/CSS
