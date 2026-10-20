@@ -94,9 +94,8 @@ It is named "Eman's First HTML Project" and includes basic user inputs.
 - Radio buttons to select Class (Class XI / Class XII)
 - Submit button
 - Contact email link at bottom.<BR>
-- **Technologies Used**: HTML5, CSS (for styling the form box and button)
-<BR>
-**File:** `firstproject.html`
+- **Technologies Used**: HTML5, CSS (for styling the form box and button)<BR>
+File: `firstproject.html`
 
 ## 🛠️ Language
 Java - Learning fundamentals | HTML/CSS - Beginner
