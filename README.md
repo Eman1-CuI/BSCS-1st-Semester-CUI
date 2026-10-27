@@ -112,10 +112,21 @@ Enter marks of three subject and then calculate average of three subjects
 <BR>
 **File:** 'AverageChecker.java'
 
+### 🧠 What I Learned
+- Difference between `java.swing` and `javax.swing`
+- Java is case-sensitive: `main` not `Main`
+- How to use `JOptionPane.showMessageDialog()` for GUI output
+- Importance of saving file before running in VS Code
+
 ### 19. To show greetings 
 This is too much excited in java to show the message in the dialog box
 <BR>
 **File:** 'Hello.java'
+
+### 20. To show short line about myself 
+The output show in Dialog Box
+<BR>
+**File:** `Eman.java`
 
 ## 🛠️ Language
 Java - Learning fundamentals | HTML/CSS - Beginner
