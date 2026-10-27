@@ -13,7 +13,7 @@ Goal: MS/PhD from Abroad | Learning: Java, HTML/CSS
 
 ## Projects
 
-### 1.Print Bill Calculator 
+### 1. Print Bill Calculator 
 Calculates printing shop billing with tax.
 <BR>
 **File:** 'PrintBill.java'
@@ -97,7 +97,7 @@ It is named "Eman's First HTML Project" and includes basic user inputs.
 - **Technologies Used**: HTML5, CSS (for styling the form box and button)<BR>
 File: `firstproject.html`
 
-### 16.Check alphabet
+### 16. Check alphabet
 Enter a character and then check whether it is Vowel and consonant
 <BR>
 **File:**'CharacterChecker.java'
@@ -105,7 +105,12 @@ Enter a character and then check whether it is Vowel and consonant
 ### 17. Equality between two numbers
 Enter two numbers and check it is equal or not 
 <BR>
-**File:**'CharacterChecker.java
+**File:**'EqualityChecker.java'
+
+### 18. Admission in university
+Enter marks of three subject and then calculate average of three subjects
+<BR>
+**File:** 'AverageChecker.java'
 
 ## 🛠️ Language
 Java - Learning fundamentals | HTML/CSS - Beginner
