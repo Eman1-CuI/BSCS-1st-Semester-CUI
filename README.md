@@ -97,6 +97,11 @@ It is named "Eman's First HTML Project" and includes basic user inputs.
 - **Technologies Used**: HTML5, CSS (for styling the form box and button)<BR>
 File: `firstproject.html`
 
+### 16.Character Checker
+Enter a character and then check whether it is Vowel and consonant
+<BR>
+**File:**'CharacterChecker.java'
+
 ## 🛠️ Language
 Java - Learning fundamentals | HTML/CSS - Beginner
 
