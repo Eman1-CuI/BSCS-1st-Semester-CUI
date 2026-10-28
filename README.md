@@ -128,6 +128,9 @@ The output show in Dialog Box
 <BR>
 **File:** `Eman.java`
 
+<img width="265" height="121" alt="image" src="https://github.com/user-attachments/assets/1e02a309-987a-4112-92b1-9bc0ff6df666" />
+
+
 ## 🛠️ Language
 Java - Learning fundamentals | HTML/CSS - Beginner
 
