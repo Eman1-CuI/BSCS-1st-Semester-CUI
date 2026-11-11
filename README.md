@@ -133,7 +133,7 @@ The output show in Dialog Box
 ### 21. To show different result in switch statement 
 Just Enter a choice
 <BR>
-**File:** 'SC.java'
+**File:** ' SC.java '
 
 
 ## 🛠️ Language
