@@ -130,6 +130,11 @@ The output show in Dialog Box
 
 <img width="265" height="121" alt="image" src="https://github.com/user-attachments/assets/1e02a309-987a-4112-92b1-9bc0ff6df666" />
 
+### 21. To show different result in switch statement 
+Just Enter a choice
+<BR>
+**File:** 'SC.java'
+
 
 ## 🛠️ Language
 Java - Learning fundamentals | HTML/CSS - Beginner
