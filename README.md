@@ -148,6 +148,10 @@ Enter the number like 4224, 151, 12321
 <BR>
 **File:** 'Palindrome.java'
 
+### 24. to show the star pattern in a inverted pattern
+<BR>
+**File:** 'InvertedTrinaglePattern.java'
+
 ## 🛠️ Language
 Java - Learning fundamentals | HTML/CSS - Beginner
 
