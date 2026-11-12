@@ -152,6 +152,10 @@ Enter the number like 4224, 151, 12321
 <BR>
 **File:** 'InvertedTrinaglePattern.java'
 
+### 25. To find the sum of series
+<BR>
+**File:** 'SeriesSum.java'
+
 ## 🛠️ Language
 Java - Learning fundamentals | HTML/CSS - Beginner
 
