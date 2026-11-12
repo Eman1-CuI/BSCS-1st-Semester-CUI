@@ -137,7 +137,15 @@ Just Enter a choice
 
 ### 22. To show the product of odd number from 1 to 10
 Get simple solution by running it.
+<BR>
 **File:** 'OddProduct.java'
+
+### 23. To check if a number is palindrome or not 
+Q. What is Palindrome?
+A. A number which remain same after reversing.
+Enter the number like 4224, 151, 12321
+<BR>
+**File:** 'Palindrome.java'
 
 ## 🛠️ Language
 Java - Learning fundamentals | HTML/CSS - Beginner
