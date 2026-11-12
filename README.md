@@ -133,8 +133,11 @@ The output show in Dialog Box
 ### 21. To show different result in switch statement 
 Just Enter a choice
 <BR>
-**File:** ' SC.java '
+**File:** 'SC.java'
 
+### 22. To show the product of odd number from 1 to 10
+Get simple solution by running it.
+**File:** 'OddProduct.java'
 
 ## 🛠️ Language
 Java - Learning fundamentals | HTML/CSS - Beginner
