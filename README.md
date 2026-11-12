@@ -141,8 +141,9 @@ Get simple solution by running it.
 **File:** 'OddProduct.java'
 
 ### 23. To check if a number is palindrome or not 
-Q. What is Palindrome?
+Q. What is Palindrome?<BR>
 A. A number which remain same after reversing.
+<BR>
 Enter the number like 4224, 151, 12321
 <BR>
 **File:** 'Palindrome.java'
