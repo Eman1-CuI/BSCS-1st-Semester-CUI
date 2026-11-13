@@ -149,12 +149,13 @@ Enter the number like 4224, 151, 12321
 **File:** 'Palindrome.java'
 
 ### 24. to show the star pattern in a inverted pattern
-<BR>
 **File:** 'InvertedTrinaglePattern.java'
 
 ### 25. To find the sum of series
-<BR>
 **File:** 'SeriesSum.java'
+
+### 26. To find the perfect number.
+**File:** 'perfectNumber.java'
 
 ## 🛠️ Language
 Java - Learning fundamentals | HTML/CSS - Beginner
